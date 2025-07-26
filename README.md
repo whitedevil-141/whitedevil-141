@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building scalable backend systems with Python & FastAPI  <br>👯 I’m looking to collaborate on open source projects in web development and automation  <br>🌱 I’m currently learning system design, Docker, and Kubernetes  <br>💬 Ask me about Python, FastAPI, MikroTik API, or Discord bots  <br>⚡ Crafting Code with Passion 💻❤️<br>
+🔭 I’m currently working on building scalable backend systems with Python & FastAPI  <br>👯 I’m looking to collaborate on open source projects in web development and automation  <br>🌱 I’m currently learning system design, Docker, and Kubernetes  <br>💬 Ask me about Python, FastAPI, or Discord bots  <br>⚡ Crafting Code with Passion 💻❤️<br>
 
 
 ## 🌐 Socials:
